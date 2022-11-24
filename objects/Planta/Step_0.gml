@@ -38,6 +38,6 @@ if(disparar2 == true)
 	/// @DnDVersion : 1
 	/// @DnDHash : 2495D677
 	/// @DnDParent : 7F028DD5
-	/// @DnDArgument : "steps" "60"
-	alarm_set(0, 60);
+	/// @DnDArgument : "steps" "180"
+	alarm_set(0, 180);
 }
